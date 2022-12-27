@@ -1,4 +1,4 @@
-[![MasterHead](https://knowledge.insead.edu/sites/knowledge/files/styles/1280x500/public/images/2016/04/gilles_hilary_the_professionalisation_of_cyber_criminals.jpg?itok=2rGOdJ__)](https://rishavchanda.io)
+[![MasterHead](https://t4.ftcdn.net/jpg/02/78/37/47/360_F_278374738_ypRn0utOVnebuhmpSrDiwkzFsdqEm0aa.jpg)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Tejas Ekhande</h1>
 <h3 align="center">A Passionate Software Developer from India</h3>
 <img align="right" alt="coding "width="400" src="https://www.lambdatest.com/resources/images/news24.gif">
